@@ -1,0 +1,34 @@
+.im {
+ width:110px;
+ height: 70px;
+ 
+}
+.contant {
+    background-color:white;
+    display: flex;
+    margin:0px;
+    position: relative;
+    top: 0px;
+    width: 100%;
+}
+.option{
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.add{
+    color:rgb(0,0,0);
+    font-size: 20px;
+    margin: 20px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+.enter{
+    background-color:rgba(207, 131, 37, 0.3);
+    height:900px;
+    width:325mm;
+    border-radius: 10px;
+    text-align: center;
+    font-style: italic;
+    
+    
+}
